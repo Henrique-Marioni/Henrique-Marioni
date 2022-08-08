@@ -4,12 +4,12 @@ Olá! Sou Henrique Marioni e esse é o meu Github 👋
 
 - 🌱 Javascript 
 
-<div align="leftr">
+<div align="center">
   <a href="https://github.com/Henrique-Marioni">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Marioni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Marioni&layout=compact&langs_count=7&theme=radical"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rick-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Rick-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
