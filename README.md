@@ -29,4 +29,4 @@ Olá! Sou Henrique Marioni e esse é o meu Github 👋
    
    ![Snake animation](https://github.com/Henrique-Marioni/Henrique-Marioni/blob/output/github-contribution-grid-snake.svg)
   
-</div>
+</div> 
