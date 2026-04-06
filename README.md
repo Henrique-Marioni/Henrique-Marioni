@@ -2,7 +2,10 @@ Olá! Sou Henrique Marioni e esse é o meu Github 👋
 
 ##
 
-- 🌱 Javascript 
+-  Typescript
+-  Angular
+-  NodeJs
+-  MongoDB
 
 <div align="center">
   <a href="https://github.com/Henrique-Marioni">
