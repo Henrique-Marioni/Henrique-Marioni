@@ -6,6 +6,7 @@ Olá! Sou Henrique Marioni e esse é o meu Github 👋
 -  Angular
 -  NodeJs
 -  MongoDB
+-  Estudo prático com PO UI
 
 <div align="center">
   <a href="https://github.com/Henrique-Marioni">
